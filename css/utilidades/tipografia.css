@@ -1,0 +1,18 @@
+      /*a linha a baixo esta resumida,
+  peso da fonte, font-size, line-height, font-family  */
+
+
+.font-n-r-14 {
+    font: 400 0.875rem/1.50 "nunito", sans-serif;
+/* com espaçamento de 150% das linhas */
+}
+
+.font-n-r-14-x {
+    font: 400 0.875rem/2.45 "nunito", sans-serif;
+/* com espaçamento de 245.52% das linhas */
+}
+
+.font-n-b-14 {
+    font: 700 0.875rem/2.18 "nunito", sans-serif;
+/* com espaçamento de 245.52% das linhas */
+}

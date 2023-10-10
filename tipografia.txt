@@ -1,0 +1,28 @@
+Fontes para projeto do Surfbot.
+
+Fonte Nunito regular tamanho 14px com 150% de espaçamento:
+.font-n-r-14
+
+Fonte Nunito regular tamanho 14px com 150% de espaçamento:
+.font-n-r-14-x
+
+Fonte Nunito bold tamanho 14:
+.font-n-b-14
+
+Fonte Nunito regular tamanho 18:
+.font-n-r-18
+
+Fonte Nunito bold tamanho 18:
+.font-n-b-18
+
+Fonte Nunito regular tamanho 24:
+.font-n-r-24
+
+Fonte Nunito bold tamanho 24:
+.font-n-b-24
+
+
+Fonte Alice regular tamanho 72:
+.font-a-r-72
+
+
