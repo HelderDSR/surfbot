@@ -4,7 +4,7 @@
 }
 
 .horario {
-  background-color: #1188ee;
+  background-color: var(--cor-b2);
   width: 100%;
   height: 30px;
 }
