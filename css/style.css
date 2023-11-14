@@ -9,3 +9,5 @@
 
 /* tipografia */
 @import "./utilidades/tipografia.css";
+
+@import "./home/informacoes.css"

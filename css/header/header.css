@@ -55,10 +55,10 @@
   position: relative;
 }
 
-.texto {
+.texto-init {
   position: absolute;
   bottom: 44px;
-  left: 45px;
+  left: 60px;
 }
 
 .form-email {
