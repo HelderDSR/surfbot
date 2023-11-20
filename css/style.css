@@ -10,4 +10,8 @@
 /* tipografia */
 @import "./utilidades/tipografia.css";
 
-@import "./home/informacoes.css"
+/* informação */
+@import "./home/informacoes.css";
+
+/* aulas */
+@import "./aulas/aulas.css";
